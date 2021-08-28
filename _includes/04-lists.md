@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+headings
+- title1
+- title2
+  - subtitle21
